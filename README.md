@@ -1,7 +1,21 @@
-# 💫 About Me:
-🚀 About Me<br>👋 Hi, I'm AYAN PANDEY ! I'm a passionate tech enthusiast who loves building AI-driven applications and crafting engaging UI/UX designs. I enjoy working on projects that solve real-world problems! 🌍💡<br><br>🤝 Looking to Collaborate On:<br>🤖💡 AI/ML projects, especially chatbots & intelligent automation.<br>🎨📱 UI/UX design for web & mobile apps.<br>🌍🌱 Open-source contributions in web development.<br><br>🔍 Looking for Help With:<br>📊 🔍 Improving astrology dataset accuracy for AI-based predictions.<br>🐙 🚀 Enhancing my Git & open-source contributions skills.<br><br>💬 Ask Me About:<br>🤖 AI chatbots & automation.<br>🎨 UI/UX design & web development.<br>📜 AI models.<br><br>🎉 Fun Fact:<br>⚡ I love experimenting with new tech ideas and turning them into real-world projects! 🚀🔥
+💫 About Me
 
+👋 Hi, I’m Ayan Pandey — IT student and full-stack developer.
+🚀 I love building smart, useful projects and crafting UIs that don’t hurt the eyes.
+💡 Hand me a problem with a deadline, and I’ll deliver the solution before the clock runs out.
+🌍 Always curious, always coding, always learning.
 
+💬 Ask me about:
+
+Full-stack development
+
+Web apps & UI/UX
+
+Turning messy ideas into working projects
+
+⚡ Fun fact:
+
+I debug my code faster with coffee… but it still works only after the third try. ☕🐞
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayanpandit_31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayan-pandey-b66067296) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayanpandey8528@gmail.com) 
 
