@@ -1,36 +1,69 @@
-name: Generate Snake Animationname: Generate Snake Animation
+name: Generate Snake Animationname: Generate Snake Animationname: Generate Snake Animation
 
 
 
-on:on:
+on:
 
-  schedule:  schedule:
+  schedule:
 
-    - cron: "0 */12 * * *"    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"on:on:
 
-  workflow_dispatch:  workflow_dispatch:
+  workflow_dispatch:
 
-  push:  push:
+  push:  schedule:  schedule:
 
-    branches:    branches:
+    branches:
+
+      - main    - cron: "0 */12 * * *"    - cron: "0 */12 * * *"
+
+
+
+jobs:  workflow_dispatch:  workflow_dispatch:
+
+  generate:
+
+    permissions:  push:  push:
+
+      contents: write
+
+    runs-on: ubuntu-latest    branches:    branches:
+
+    timeout-minutes: 10
 
     - main    - main
 
+    steps:
+
+      - name: Generate snake animation
+
+        uses: Platane/snk/svg-only@v3
+
+        with:jobs:jobs:
+
+          github_user_name: ayanpandit
+
+          outputs: |  generate:  generate:
+
+            dist/github-contribution-grid-snake.svg
+
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark    permissions:    runs-on: ubuntu-latest
 
 
-jobs:jobs:
 
-  generate:  generate:
+      - name: Push to output branch      contents: write    timeout-minutes: 10
 
-    permissions:    runs-on: ubuntu-latest
+        uses: crazy-max/ghaction-github-pages@v3.1.0
 
-      contents: write    timeout-minutes: 10
+        with:    runs-on: ubuntu-latest    
 
-    runs-on: ubuntu-latest    
+          target_branch: output
 
-    timeout-minutes: 10    steps:
+          build_dir: dist    timeout-minutes: 10    steps:
 
-          - name: Generate snake animation
+        env:
+
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}          - name: Generate snake animation
+
 
     steps:        uses: Platane/snk/svg-only@v3
 
