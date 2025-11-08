@@ -47,16 +47,6 @@ const ayan = {
     },
     
     currentFocus: "Building app.ui 🎨",
-    
-    dailyRoutine: {
-        morning: "☕ Coffee",
-        afternoon: "💻 Code",
-        evening: "🐛 Debug",
-        night: "📚 Learn",
-        repeat: true
-    },
-    
-    funFact: "I debug faster with coffee ☕ but it works on the 3rd try 🐞"
 };
 ```
 
