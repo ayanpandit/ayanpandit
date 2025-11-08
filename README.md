@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Ayan+Pandey+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Problem+Solver+%F0%9F%92%A1;Always+Learning+%F0%9F%8C%8D" alt="Typing SVG" />
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 </div>
 
 ---
@@ -31,14 +33,16 @@ const ayan = {
 };
 ```
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 <br>
 
 <div align="center">
 
 ## ⚡ Power Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayanpandit&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&icon_color=06b6d4" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanpandit&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=06b6d4&currStreakLabel=a78bfa" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayanpandit&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&icon_color=06b6d4&border_radius=10" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanpandit&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=06b6d4&currStreakLabel=a78bfa&border_radius=10" width="49%" />
 
 </div>
 
@@ -48,7 +52,7 @@ const ayan = {
 
 ## 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanpandit&custom_title=My%20Contribution%20Journey&hide_border=true&bg_color=0d1117&color=a78bfa&line=06b6d4&point=ffffff&area=true&area_color=a78bfa" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanpandit&custom_title=My%20Contribution%20Journey&hide_border=true&bg_color=0d1117&color=a78bfa&line=06b6d4&point=ffffff&area=true&area_color=a78bfa&radius=16" width="98%"/>
 
 </div>
 
@@ -56,9 +60,13 @@ const ayan = {
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 ## 🎨 Tech Arsenal
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,django,java,kotlin,php,html,css,tailwind,mongodb,firebase,postgresql,aws,gcp,git,github,vscode,figma,docker&perline=12" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
@@ -76,10 +84,14 @@ const ayan = {
 
 <div align="center">
 
-## 🎯 Language Stats
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpandit&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=10" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ayanpandit&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&custom_title=This%20Week%20I%20Coded%20In&layout=compact" width="49%" />
+## 🎯 Language & Activity Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpandit&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=10&border_radius=10" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ayanpandit&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&custom_title=This%20Week&layout=compact&border_radius=10" width="49%" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
@@ -87,75 +99,121 @@ const ayan = {
 
 <div align="center">
 
-## 🎮 Interactive Zone
+## 🎮 Interactive Gaming Zone
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 
 </div>
 
 <details open>
-<summary><b>🐍 Watch My Contributions Get Eaten!</b></summary>
+<summary><b>🐍 Watch The Snake Devour My Contributions!</b></summary>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ayanpandit/ayanpandit/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/ayanpandit/ayanpandit/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayanpandit/ayanpandit/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayanpandit/ayanpandit/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayanpandit/ayanpandit/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-**Note:** Snake animation requires GitHub Actions setup. Add this to your repo:
-1. Create `.github/workflows/snake.yml`
-2. Add the snake generation workflow
-3. The animation will appear here automatically!
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+</div>
+
 </details>
 
 <details open>
-<summary><b>📈 Detailed Contribution Stats</b></summary>
+<summary><b>📈 Deep Dive Contribution Analytics</b></summary>
 <br>
 <img src="https://github-contributor-stats.vercel.app/api?username=ayanpandit&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" width="100%" />
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
 </details>
 
 <details open>
-<summary><b>🔥 Contribution Heatmap</b></summary>
+<summary><b>🔥 Annual Contribution Heatmap</b></summary>
 <br>
 <img src="https://ghchart.rshah.org/a78bfa/ayanpandit" alt="GitHub Contribution Heatmap" width="100%" />
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+</div>
+
 </details>
 
 <details open>
-<summary><b>💭 Dev Wisdom of the Day</b></summary>
+<summary><b>💭 Random Developer Wisdom</b></summary>
 <br>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
+</div>
+
 </details>
 
 <details open>
-<summary><b>😂 Random Dev Joke</b></summary>
+<summary><b>😂 Daily Dose of Dev Humor</b></summary>
 <br>
 <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
-</details>
 
-<details open>
-<summary><b>🎲 Fun Dev Facts About Me</b></summary>
-<br>
-
-```yaml
-☕ Coffee_Consumption: "Unlimited (Debug Fuel)"
-🐛 Bugs_Fixed_Today: "More than I created... hopefully"
-💻 Lines_of_Code: "if (coffee) { code() } else { sleep() }"
-🔍 Favorite_Error: "404: Sleep Not Found"
-🎯 Debug_Method: "console.log() everywhere + pray"
-⚡ Best_Feature: "Ctrl + Z (Life's Undo Button)"
-🚀 Superpower: "Turning caffeine into functioning software"
-🎨 Design_Philosophy: "Make it work, make it right, make it beautiful"
-```
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400">
+</div>
 
 </details>
 
 <details open>
-<summary><b>🚀 Projects I'm Cooking</b></summary>
+<summary><b>🎯 Live GitHub Metrics Dashboard</b></summary>
 <br>
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🎨 **app.ui** | Modern React Component Library | React + Tailwind CSS | 🔥 Active |
-| 💼 **Portfolio 3.0** | Next-gen Personal Website | Next.js + Framer Motion | 🚧 Building |
-| 🤖 **AI Assistant** | Smart Productivity Tool | Python + TensorFlow | 💡 Planning |
-| 📱 **Mobile App** | Cross-platform Solution | React Native | 🎯 Ideation |
+<div align="center">
+
+<a href="https://github.com/ayanpandit">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayanpandit&theme=radical" width="100%"/>
+</a>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayanpandit&theme=radical" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayanpandit&theme=radical" width="49%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayanpandit&theme=radical" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayanpandit&theme=radical" width="49%" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212750e147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500">
+
+</div>
+
+</details>
+
+<details open>
+<summary><b>⭐ Stargazers Over Time</b></summary>
+<br>
+
+<div align="center">
+<img src="https://starchart.cc/ayanpandit/ayanpandit.svg" width="100%" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+</div>
+
+</details>
+
+<details open>
+<summary><b>🌍 Repository Traffic & Views</b></summary>
+<br>
+
+<div align="center">
+
+| Metric | Count |
+|--------|-------|
+| 👁️ **Profile Views** | ![](https://komarev.com/ghpvc/?username=ayanpandit&color=a78bfa&style=flat-square) |
+| ⭐ **Total Stars** | ![](https://img.shields.io/github/stars/ayanpandit?style=flat-square&color=06b6d4) |
+| 👥 **Followers** | ![](https://img.shields.io/github/followers/ayanpandit?style=flat-square&color=a78bfa) |
+| 🔧 **Public Repos** | ![](https://img.shields.io/badge/dynamic/json?color=06b6d4&style=flat-square&label=repos&query=%24.public_repos&url=https://api.github.com/users/ayanpandit) |
+
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400">
+
+</div>
 
 </details>
 
@@ -163,7 +221,9 @@ const ayan = {
 
 <div align="center">
 
-## 🌐 Connect & Collaborate
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 🌐 Connect & Collaborate With Me
 
 <a href="https://instagram.com/ayanpandit_31" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -178,21 +238,23 @@ const ayan = {
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 </div>
 
 <br>
 
 <div align="center">
 
-## 💡 What I'm Up To
+## 💡 Current Mission
 
 ```diff
-+ 🔨 Building app.ui - Beautiful React Components for Everyone
-+ 🎯 Deep Diving into Full-Stack Development & AI/ML
-+ 🚀 Creating Real Solutions for Real Problems
-+ 💜 Contributing to Open Source & Building Community
-+ 🌟 Learning Something New Every Single Day
-- 🐛 Debugging (It's Not a Bug, It's a Feature... Right?)
++ 🔨 Building app.ui - Beautiful React Components Library
++ 🎯 Mastering Full-Stack Development & AI/ML Technologies
++ 🚀 Creating Real Solutions for Real-World Problems
++ 💜 Contributing to Open Source & Growing Developer Community
++ 🌟 Learning & Evolving Every Single Day
+- 🐛 Debugging (The Never-Ending Adventure)
 ```
 
 </div>
@@ -201,51 +263,21 @@ const ayan = {
 
 <div align="center">
 
-## 📈 GitHub Insights
+## 📊 Detailed GitHub Analytics
 
-<img src="https://komarev.com/ghpvc/?username=ayanpandit&label=Profile%20Views&color=a78bfa&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/ayanpandit?label=Followers&style=for-the-badge&color=06b6d4&labelColor=0d1117" alt="Followers" />
-<img src="https://img.shields.io/github/stars/ayanpandit?label=Total%20Stars&style=for-the-badge&color=a78bfa&labelColor=0d1117" alt="Total Stars" />
+<img src="https://metrics.lecoq.io/ayanpandit?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&discussions=1&followup=1&isocalendar=1&stargazers=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&followup.sections=repositories&followup.indepth=false&isocalendar.duration=half-year&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&config.timezone=Asia%2FKolkata&config.twemoji=true&config.octicon=true" alt="Detailed GitHub Metrics" width="100%">
 
 </div>
 
 <br>
 
-<div align="center">
-
-## 🎵 Currently Vibing To
-
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-</a>
-
-_Add your Spotify widget here by connecting your account!_
-
-</div>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=150&section=footer&text=Thanks%20For%20Visiting!&fontSize=40&fontAlignY=65&desc=Let's%20Connect%20And%20Create%20Magic%20Together&descAlignY=85&animation=twinkling&fontColor=fff" width="100%"/>
 
 <div align="center">
 
-## 🎯 2025 Goals
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-| Goal | Progress | Status |
-|------|----------|--------|
-| Master React & Next.js | ████████░░ 80% | 🔥 On Track |
-| Build 10 Open Source Projects | ███░░░░░░░ 30% | 🚀 Progressing |
-| Contribute to Major OSS | ██████░░░░ 60% | ✅ Active |
-| Learn AI/ML in Depth | █████░░░░░ 50% | 📚 Learning |
-| Build Personal Brand | ███████░░░ 70% | 💪 Growing |
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=fff" width="100%"/>
-
-<div align="center">
-
-### 💜 Thanks for visiting! Let's connect and create something incredible!
+### 💜 Keep Coding, Keep Creating!
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
@@ -254,5 +286,11 @@ _Add your Spotify widget here by connecting your account!_
 ---
 
 <div align="center">
-<sub>⭐ If you like what you see, star some repositories! ⭐</sub>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100">
+
+**"Building the future, one commit at a time"** 🚀
+
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100">
+
 </div>
