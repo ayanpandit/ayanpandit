@@ -31,206 +31,196 @@ const ayan = {
 };
 ```
 
-<div align="center">
-
----
-
-## 🌟 What I Do
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
-<h3>Full-Stack Dev</h3>
-<p>Building complete web applications from frontend to backend</p>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/design.png" width="60"/>
-<h3>UI/UX Design</h3>
-<p>Crafting interfaces that don't hurt the eyes</p>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/>
-<h3>Problem Solver</h3>
-<p>Turning messy ideas into working solutions</p>
-</td>
-</tr>
-</table>
-
-<div align="center">
-
----
-
-## 💬 Let's Connect
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ayanpandit_31) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayan-pandey-b66067296) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayanpandey8528@gmail.com)
-
----
-
-</div>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Cloud & Hosting
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-### Databases
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### AI/ML & Data Science
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Design Tools
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayanpandit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanpandit&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpandit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayanpandit&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ayanpandit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-<div align="center">
-
-## 💭 Dev Quote of the Day
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-## 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=ayanpandit&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎮 Fun Zone
-
-<details>
-<summary>🐍 Watch the Snake eat my contributions!</summary>
 <br>
 
-![Snake animation](https://raw.githubusercontent.com/ayanpandit/ayanpandit/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
 
+## ⚡ Power Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayanpandit&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&icon_color=06b6d4" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanpandit&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=06b6d4&currStreakLabel=a78bfa" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanpandit&custom_title=Contribution%20Graph&hide_border=true&bg_color=0d1117&color=a78bfa&line=06b6d4&point=ffffff&area=true&area_color=a78bfa" width="98%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🎨 Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,django,java,kotlin,php,html,css,tailwind,mongodb,firebase,postgresql,aws,gcp,git,github,vscode,figma,docker&perline=12" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🏆 Achievement Showcase
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayanpandit&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🎯 Coding Activity
+
+<!--START_SECTION:waka-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpandit&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ayanpandit&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&custom_title=Weekly%20Coding%20Time" width="48%" />
+<!--END_SECTION:waka-->
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🎮 Interactive Zone
+
+<details open>
+<summary><b>🐍 Contribution Snake</b></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayanpandit/ayanpandit/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayanpandit/ayanpandit/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayanpandit/ayanpandit/output/github-contribution-grid-snake.svg">
+</picture>
 </details>
 
 <details>
-<summary>⚡ Random Dev Fact</summary>
+<summary><b>💭 Random Dev Wisdom</b></summary>
+<br>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+</details>
+
+<details>
+<summary><b>🎲 Fun Dev Facts</b></summary>
 <br>
 
-```
-💡 Did you know?
-The first computer bug was an actual bug!
-In 1947, a moth was found trapped in a relay 
-of the Harvard Mark II computer.
-
-☕ Coffee Fact:
-Programmers convert coffee into code.
-Current conversion rate: 1 cup = 100 lines 
-(50 good lines after debugging)
-
-🐛 Debugging Wisdom:
-"If debugging is the process of removing bugs,
-then programming must be the process of putting them in."
-- Edsger W. Dijkstra
+```yaml
+Coffee_Consumption: "Unlimited ☕"
+Bugs_Fixed_Today: "Too many to count 🐛"
+Lines_of_Code: "if (coffee) { code() } else { sleep() }"
+Favorite_Error: "404: Sleep Not Found"
+Debug_Method: "Console.log() everywhere"
+Best_Feature: "Ctrl + Z (Undo Life Mistakes)"
 ```
 
 </details>
 
+<details>
+<summary><b>🚀 Current Projects</b></summary>
+<br>
+
+| Project | Tech Stack | Status |
+|---------|-----------|--------|
+| 🎨 **app.ui** | React + Tailwind | 🔥 Active |
+| 💼 **Portfolio 3.0** | Next.js + Framer | 🚧 Building |
+| 🤖 **AI Tool** | Python + TensorFlow | 💡 Planning |
+
+</details>
+
+<details>
+<summary><b>📊 Detailed Contributions</b></summary>
+<br>
+<img src="https://github-contributor-stats.vercel.app/api?username=ayanpandit&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" width="100%" />
+</details>
+
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 🎯 Current Mission
+## 🌐 Connect With Me
+
+<a href="https://instagram.com/ayanpandit_31">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/ayan-pandey-b66067296">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:aayanpandey8528@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/ayanpandit">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 💡 Current Focus
 
 ```diff
-+ Building app.ui - A beautiful component library
-+ Mastering full-stack development
-+ Creating projects that solve real problems
-- Bugs (we don't talk about those)
++ 🔨 Building app.ui - Modern React Component Library
++ 🎯 Mastering Full-Stack Development & AI/ML
++ 🚀 Creating Solutions for Real-World Problems
++ 💜 Open Source Contributions & Community Building
+- 🐛 Debugging (The Never-Ending Story)
 ```
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=fff" />
+## 📈 Profile Insights
 
-### 🔢 Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=ayanpandit&icon=2&color=6)](https://visitcount.itsvg.in)
-
-### 💫 Let's build something amazing together!
+<img src="https://komarev.com/ghpvc/?username=ayanpandit&label=Profile%20Views&color=a78bfa&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/ayanpandit?label=Followers&style=for-the-badge&color=06b6d4&labelColor=0d1117" alt="Followers" />
+<img src="https://img.shields.io/github/stars/ayanpandit?label=Total%20Stars&style=for-the-badge&color=a78bfa&labelColor=0d1117" alt="Stars" />
 
 </div>
 
----
+<br>
 
 <div align="center">
-<i>⭐ From [ayanpandit](https://github.com/ayanpandit) with 💜</i>
+
+## 🎵 Spotify Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k3sh2aaixryffppkjk3i7zctri&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=a78bfa&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31k3sh2aaixryffppkjk3i7zctri&redirect=true)
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🎨 Contribution Heatmap
+
+<img src="http://ghchart.rshah.org/a78bfa/ayanpandit" alt="Contribution Graph" width="100%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+## ✨ Random Dev Joke
+
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=35&fontAlignY=70&animation=twinkling&fontColor=fff" width="100%"/>
+
+<div align="center">
+
+### 💜 Thanks for stopping by!
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 </div>
