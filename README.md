@@ -146,16 +146,13 @@ const ayan = {
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35"/> 🎮 ULTIMATE INTERACTIVE GAMING ARCADE 🎮
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35"/> 🎮
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-
-### 🕹️ 15+ Interactive Games & Visualizations! 🕹️
-
 </div>
 
 <details open>
-<summary><b>🐍 GAME 1: Contribution Snake - Classic Arcade!</b></summary>
+<summary><b>🐍 Classic Arcade!</b></summary>
 <br>
 
 <div align="center">
@@ -171,7 +168,7 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>🏙️ GAME 2: 3D Contribution Skyline - Build Your City!</b></summary>
+<summary><b>🏙️Building my City!</b></summary>
 <br>
 
 <div align="center">
@@ -187,7 +184,7 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>🌊 GAME 3: Contribution Ocean - Wave Patterns!</b></summary>
+<summary><b>🌊Contribution Ocean - Wave Patterns!</b></summary>
 <br>
 
 <div align="center">
@@ -200,15 +197,7 @@ const ayan = {
 
 </div>
 
-</details>
 
-<details open>
-<summary><b>🎨 GAME 4: Contribution Pixel Art - Retro Style!</b></summary>
-<br>
-
-<div align="center">
-
-![](https://raw.githubusercontent.com/ayanpandit/ayanpandit/main/profile-3d-contrib/profile-green-animate.svg)
 
 **🟩 Matrix-style contribution visualization!**
 
@@ -219,7 +208,7 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>🔥 GAME 5: Annual Heatmap - Temperature Check!</b></summary>
+<summary><b>🔥Temperature Check!</b></summary>
 <br>
 
 <div align="center">
@@ -235,7 +224,7 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>📊 GAME 6: Live Dashboard - Real-Time Stats!</b></summary>
+<summary><b>📊Real-Time Stats!</b></summary>
 <br>
 
 <div align="center">
@@ -259,7 +248,7 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>⭐ GAME 7: Star History - Growth Timeline!</b></summary>
+<summary><b>⭐Growth Timeline!</b></summary>
 <br>
 
 <div align="center">
@@ -275,7 +264,7 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>🎲 GAME 8: Metrics Command Center!</b></summary>
+<summary><b>🎲 Metrics Command Center!</b></summary>
 <br>
 
 <div align="center">
@@ -296,7 +285,7 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>💭 GAME 9: Wisdom Generator - Daily Quotes!</b></summary>
+<summary><b>💭Wisdom Generator - Daily Quotes!</b></summary>
 <br>
 
 <div align="center">
@@ -312,7 +301,7 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>😂 GAME 10: Joke Machine - Endless Laughter!</b></summary>
+<summary><b>😂 Endless Laughter!</b></summary>
 <br>
 
 <div align="center">
@@ -328,47 +317,10 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>🎨 GAME 11: Live Code Simulator!</b></summary>
+<summary><b>🎨Live Code Simulator!</b></summary>
 <br>
 
 <div align="center">
-
-```javascript
-// ⚡ Real-time coding simulation
-console.log("Initializing developer mode... 👨‍💻");
-
-class AyanPandey {
-    constructor() {
-        this.passion = "💜";
-        this.fuel = "☕ Coffee";
-        this.weapon = "💻 Code";
-        this.superpower = "🚀 Ship features fast";
-    }
-    
-    code() {
-        while(this.fuel > 0) {
-            this.createMagic();
-            this.debugBugs();
-            this.deployToProduction();
-        }
-        return "✨ Another masterpiece delivered!";
-    }
-    
-    dailyRoutine() {
-        return [
-            "Wake up 🌅",
-            "Coffee ☕",
-            "Code 💻", 
-            "Debug 🐛",
-            "Deploy 🚀",
-            "Repeat 🔄"
-        ];
-    }
-}
-
-const developer = new AyanPandey();
-developer.code(); // Magic happens here ✨
-```
 
 **⌨️ Watch the code come alive!**
 
@@ -379,7 +331,7 @@ developer.code(); // Magic happens here ✨
 </details>
 
 <details open>
-<summary><b>🏆 GAME 12: Trophy Vault - Unlock Achievements!</b></summary>
+<summary><b>🏆Unlock Achievements!</b></summary>
 <br>
 
 <div align="center">
@@ -395,13 +347,9 @@ developer.code(); // Magic happens here ✨
 </details>
 
 <details open>
-<summary><b>📡 GAME 13: Language Radar - Tech Detection!</b></summary>
 <br>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpandit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=10&border_radius=15" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ayanpandit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&custom_title=This%20Week&layout=compact&border_radius=15" width="49%" />
 
 **🎯 Scanning all programming languages used!**
 
@@ -412,7 +360,7 @@ developer.code(); // Magic happens here ✨
 </details>
 
 <details open>
-<summary><b>🌟 GAME 14: Commit Calendar - Time Traveler!</b></summary>
+<summary><b>🌟Time Traveler!</b></summary>
 <br>
 
 <div align="center">
@@ -428,7 +376,7 @@ developer.code(); // Magic happens here ✨
 </details>
 
 <details open>
-<summary><b>🎪 GAME 15: Profile Views Counter - Visitor Tracker!</b></summary>
+<summary><b>🎪Visitor Tracker!</b></summary>
 <br>
 
 <div align="center">
@@ -473,12 +421,9 @@ developer.code(); // Magic happens here ✨
 <br>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20For%20Visiting!&fontSize=42&fontAlignY=70&desc=Let's%20Create%20Something%20Amazing%20Together&descAlignY=88&animation=twinkling&fontColor=fff" width="100%"/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Red%20Heart.png" width="25"/> Made with passion & caffeine
+
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
