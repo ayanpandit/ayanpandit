@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20To%20My%20Digital%20Universe&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descSize=20" width="100%"/>
-
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/> Hey There, I'm Ayan Pandey!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Problem+Solver+%F0%9F%92%A1;Coffee+%2B+Code+%3D+Magic+%E2%98%95;Always+Learning+%F0%9F%8C%8D;Let's+Build+Something+Epic!" alt="Typing SVG" />
@@ -150,8 +148,6 @@ const ayan = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 </div>
-
-<details open>
 <summary><b>🐍 Classic Arcade!</b></summary>
 <br>
 
@@ -165,9 +161,7 @@ const ayan = {
 
 </div>
 
-</details>
 
-<details open>
 <summary><b>🏙️Building my City!</b></summary>
 <br>
 
@@ -179,7 +173,7 @@ const ayan = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 
-<details open>
+
 <summary><b>🔥Temperature Check!</b></summary>
 <br>
 
@@ -193,9 +187,9 @@ const ayan = {
 
 </div>
 
-</details>
 
-<details open>
+
+
 <summary><b>📊Real-Time Stats!</b></summary>
 <br>
 
@@ -217,9 +211,9 @@ const ayan = {
 
 </div>
 
-</details>
 
-<details open>
+
+
 <summary><b>⭐Growth Timeline!</b></summary>
 <br>
 
@@ -233,9 +227,8 @@ const ayan = {
 
 </div>
 
-</details>
 
-<details open>
+
 <summary><b>🎲 Metrics Command Center!</b></summary>
 <br>
 
@@ -254,10 +247,10 @@ const ayan = {
 
 </div>
 
-</details>
 
-<details open>
-<summary><b>💭Wisdom Generator - Daily Quotes!</b></summary>
+
+
+<summary><b>Daily Quotes!</b></summary>
 <br>
 
 <div align="center">
@@ -270,9 +263,9 @@ const ayan = {
 
 </div>
 
-</details>
 
-<details open>
+
+
 <summary><b>😂 Endless Laughter!</b></summary>
 <br>
 
@@ -286,9 +279,6 @@ const ayan = {
 
 </div>
 
-</details>
-
-<details open>
 <summary><b>🎨Live Code Simulator!</b></summary>
 <br>
 
@@ -300,9 +290,6 @@ const ayan = {
 
 </div>
 
-</details>
-
-<details open>
 <summary><b>🏆Unlock Achievements!</b></summary>
 <br>
 
@@ -316,9 +303,7 @@ const ayan = {
 
 </div>
 
-</details>
 
-<details open>
 <br>
 
 <div align="center">
@@ -329,9 +314,6 @@ const ayan = {
 
 </div>
 
-</details>
-
-<details open>
 <summary><b>🌟Time Traveler!</b></summary>
 <br>
 
@@ -345,9 +327,7 @@ const ayan = {
 
 </div>
 
-</details>
 
-<details open>
 <summary><b>🎪Visitor Tracker!</b></summary>
 <br>
 
@@ -363,7 +343,7 @@ const ayan = {
 
 </div>
 
-</details>
+
 
 <br>
 
