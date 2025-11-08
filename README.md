@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20To%20My%20Digital%20Universe&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descSize=20" width="100%"/>
-
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/> Hey There, I'm Ayan Pandey!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Problem+Solver+%F0%9F%92%A1;Coffee+%2B+Code+%3D+Magic+%E2%98%95;Always+Learning+%F0%9F%8C%8D;Let's+Build+Something+Epic!" alt="Typing SVG" />
