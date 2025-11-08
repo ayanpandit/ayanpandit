@@ -167,7 +167,7 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>🎯 Game 2: Contribution 3D Skyline - My Code City!</b></summary>
+<summary><b>My Code City!</b></summary>
 <br>
 
 <div align="center">
@@ -183,7 +183,7 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>🔥 Game 3: Contribution Heatmap - Temperature Rising!</b></summary>
+<summary><b>🔥Temperature Rising!</b></summary>
 <br>
 
 <div align="center">
@@ -199,7 +199,7 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>📊 Game 4: GitHub Stats Dashboard - Live Metrics!</b></summary>
+<summary><b>📊 Live Metrics!</b></summary>
 <br>
 
 <div align="center">
@@ -223,7 +223,7 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>⭐ Game 5: Star History - My Growth Journey!</b></summary>
+<summary><b>⭐My Growth Journey!</b></summary>
 <br>
 
 <div align="center">
@@ -239,7 +239,7 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>🎲 Game 6: GitHub Metrics Table - Track Everything!</b></summary>
+<summary><b>🎲Track Everything!</b></summary>
 <br>
 
 <div align="center">
@@ -261,7 +261,7 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>💭 Game 7: Random Dev Wisdom - Get Inspired!</b></summary>
+<summary><b>💭Get Inspired!</b></summary>
 <br>
 
 <div align="center">
@@ -277,7 +277,7 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>😂 Game 8: Dev Jokes Generator - Laugh Out Loud!</b></summary>
+<summary><b>😂Laugh Out Loud!</b></summary>
 <br>
 
 <div align="center">
@@ -293,7 +293,7 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>🎨 Game 9: Code Typing Animation - Watch Me Code!</b></summary>
+<summary><b>🎨Watch Me Code!</b></summary>
 <br>
 
 <div align="center">
@@ -322,7 +322,7 @@ buildAmazingThings();
 </details>
 
 <details open>
-<summary><b>🏆 Game 10: Achievement Hunter - Collect Them All!</b></summary>
+<summary><b>🏆Collect Them All!</b></summary>
 <br>
 
 <div align="center">
