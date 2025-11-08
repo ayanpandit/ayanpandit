@@ -384,8 +384,6 @@ buildAmazingThings();
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20For%20Visiting!&fontSize=42&fontAlignY=70&desc=Let's%20Create%20Something%20Amazing%20Together&descAlignY=88&animation=twinkling&fontColor=fff" width="100%"/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Red%20Heart.png" width="25"/> Made with passion & caffeine
