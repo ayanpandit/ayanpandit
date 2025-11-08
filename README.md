@@ -54,6 +54,10 @@ const ayan = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanpandit&custom_title=My%20Contribution%20Journey&hide_border=true&bg_color=0d1117&color=a78bfa&line=06b6d4&point=ffffff&area=true&area_color=a78bfa&radius=16" width="98%"/>
 
+<!-- GitHub Snake Animation -->
+
+![GitHub Snake Light](https://github.com/ayanpandit/ayanpandit/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 <br>
