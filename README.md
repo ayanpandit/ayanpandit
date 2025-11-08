@@ -368,6 +368,8 @@ buildAmazingThings();
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="35"/> Current Focus
 
+<div align="center">
+
 ```diff
 + 🔨 Building app.ui - Modern React Component Library
 + 🎯 Mastering Full-Stack Development & Cloud Technologies
@@ -380,13 +382,13 @@ buildAmazingThings();
 
 </div>
 
+</div>
+
 <br>
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Red%20Heart.png" width="25"/> Made with passion & caffeine
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
