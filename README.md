@@ -144,17 +144,6 @@ const ayan = {
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35"/> Coding Analytics
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpandit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=10&border_radius=15" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ayanpandit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&custom_title=Weekly%20Stats&layout=compact&border_radius=15" width="49%" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-</div>
-
-<br>
-
 <div align="center">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35"/> 🎮 Interactive Gaming Zone 🎮
