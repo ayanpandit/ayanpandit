@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20To%20My%20Digital%20Universe&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descSize=20" width="100%"/>
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/> Hey There, I'm Ayan Pandey!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Problem+Solver+%F0%9F%92%A1;Coffee+%2B+Code+%3D+Magic+%E2%98%95;Always+Learning+%F0%9F%8C%8D;Let's+Build+Something+Epic!" alt="Typing SVG" />
@@ -144,14 +146,16 @@ const ayan = {
 
 <div align="center">
 
-<div align="center">
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35"/> 🎮 ULTIMATE INTERACTIVE GAMING ARCADE 🎮
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35"/> 
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+
+### 🕹️ 15+ Interactive Games & Visualizations! 🕹️
 
 </div>
 
 <details open>
-<summary><b>🐍Watch It Eat My Code!</b></summary>
+<summary><b>🐍 GAME 1: Contribution Snake - Classic Arcade!</b></summary>
 <br>
 
 <div align="center">
@@ -160,21 +164,21 @@ const ayan = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-**🎯 The snake hunts through my GitHub contributions!**
+**🎯 Watch the snake devour my GitHub contributions!**
 
 </div>
 
 </details>
 
 <details open>
-<summary><b>My Code City!</b></summary>
+<summary><b>🏙️ GAME 2: 3D Contribution Skyline - Build Your City!</b></summary>
 <br>
 
 <div align="center">
 
-![](https://github.com/ayanpandit/ayanpandit/blob/main/profile-3d-contrib/profile-gitblock.svg)
+![](https://raw.githubusercontent.com/ayanpandit/ayanpandit/main/profile-3d-contrib/profile-gitblock.svg)
 
-**🏙️ Each building represents my daily contributions!**
+**🌆 Each tower represents my coding activity!**
 
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 
@@ -183,14 +187,46 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>🔥Temperature Rising!</b></summary>
+<summary><b>🌊 GAME 3: Contribution Ocean - Wave Patterns!</b></summary>
+<br>
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/ayanpandit/ayanpandit/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+**🌈 Rainbow waves showing my coding rhythm!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+
+</div>
+
+</details>
+
+<details open>
+<summary><b>🎨 GAME 4: Contribution Pixel Art - Retro Style!</b></summary>
+<br>
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/ayanpandit/ayanpandit/main/profile-3d-contrib/profile-green-animate.svg)
+
+**🟩 Matrix-style contribution visualization!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+
+</div>
+
+</details>
+
+<details open>
+<summary><b>🔥 GAME 5: Annual Heatmap - Temperature Check!</b></summary>
 <br>
 
 <div align="center">
 
 [![Ayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayanpandit&bg_color=0d1117&color=00d9ff&line=ff6e96&point=ffffff&area=true&hide_border=true&custom_title=Annual%20Contribution%20Graph&radius=16)](https://github.com/ayanpandit)
 
-**🌡️ Hotter colors = More code written!**
+**🌡️ Hottest days = Most productive coding sessions!**
 
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 
@@ -199,7 +235,7 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>📊 Live Metrics!</b></summary>
+<summary><b>📊 GAME 6: Live Dashboard - Real-Time Stats!</b></summary>
 <br>
 
 <div align="center">
@@ -214,7 +250,7 @@ const ayan = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayanpandit&theme=tokyonight" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayanpandit&theme=tokyonight" width="49%" />
 
-**⏰ When am I most productive? Check the clock!**
+**⏰ Live updating metrics dashboard!**
 
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500">
 
@@ -223,14 +259,14 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>⭐My Growth Journey!</b></summary>
+<summary><b>⭐ GAME 7: Star History - Growth Timeline!</b></summary>
 <br>
 
 <div align="center">
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ayanpandit/ayanpandit&type=Date&theme=dark)](https://star-history.com/#ayanpandit/ayanpandit&Date)
 
-**📈 Watch my repositories gain stars over time!**
+**📈 Watch my star count grow over time!**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
@@ -239,7 +275,7 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>🎲Track Everything!</b></summary>
+<summary><b>🎲 GAME 8: Metrics Command Center!</b></summary>
 <br>
 
 <div align="center">
@@ -250,9 +286,8 @@ const ayan = {
 | ⭐ Total Stars | ![](https://img.shields.io/github/stars/ayanpandit?style=flat-square&color=ff6e96&label=Stars) | ⭐ Growing |
 | 👥 Followers | ![](https://img.shields.io/github/followers/ayanpandit?style=flat-square&color=00d9ff&label=Followers) | 📈 Rising |
 | 🔧 Public Repos | ![](https://img.shields.io/badge/dynamic/json?color=ff6e96&style=flat-square&label=Repos&query=%24.public_repos&url=https://api.github.com/users/ayanpandit) | 🚀 Active |
-| 💻 Total Commits | 1000+ | 🔥 Coding |
 
-**🎯 Real-time stats updating automatically!**
+**🎯 Mission control for all my GitHub stats!**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
@@ -261,14 +296,14 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>💭Get Inspired!</b></summary>
+<summary><b>💭 GAME 9: Wisdom Generator - Daily Quotes!</b></summary>
 <br>
 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
 
-**🧠 Refresh the page for a new quote!**
+**🧠 New wisdom appears every visit!**
 
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
 
@@ -277,14 +312,14 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>😂Laugh Out Loud!</b></summary>
+<summary><b>😂 GAME 10: Joke Machine - Endless Laughter!</b></summary>
 <br>
 
 <div align="center">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qLayout=horizontal)
 
-**🤣 A new joke every time you visit!**
+**🤣 Random dev jokes - never the same twice!**
 
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400">
 
@@ -293,27 +328,49 @@ const ayan = {
 </details>
 
 <details open>
-<summary><b>🎨Watch Me Code!</b></summary>
+<summary><b>🎨 GAME 11: Live Code Simulator!</b></summary>
 <br>
 
 <div align="center">
 
 ```javascript
-console.log("Hello World! 👋");
+// ⚡ Real-time coding simulation
+console.log("Initializing developer mode... 👨‍💻");
 
-function buildAmazingThings() {
-    const passion = "💜";
-    const coffee = "☕";
-    const code = "💻";
+class AyanPandey {
+    constructor() {
+        this.passion = "💜";
+        this.fuel = "☕ Coffee";
+        this.weapon = "💻 Code";
+        this.superpower = "🚀 Ship features fast";
+    }
     
-    return passion + coffee + code + " = Magic! ✨";
+    code() {
+        while(this.fuel > 0) {
+            this.createMagic();
+            this.debugBugs();
+            this.deployToProduction();
+        }
+        return "✨ Another masterpiece delivered!";
+    }
+    
+    dailyRoutine() {
+        return [
+            "Wake up 🌅",
+            "Coffee ☕",
+            "Code 💻", 
+            "Debug 🐛",
+            "Deploy 🚀",
+            "Repeat 🔄"
+        ];
+    }
 }
 
-// Currently working on: app.ui 🎨
-buildAmazingThings();
+const developer = new AyanPandey();
+developer.code(); // Magic happens here ✨
 ```
 
-**⌨️ This is what my coding looks like in real-time!**
+**⌨️ Watch the code come alive!**
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 
@@ -322,16 +379,67 @@ buildAmazingThings();
 </details>
 
 <details open>
-<summary><b>🏆Collect Them All!</b></summary>
+<summary><b>🏆 GAME 12: Trophy Vault - Unlock Achievements!</b></summary>
 <br>
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=ayanpandit&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15" width="100%" />
 
-**🎮 Unlock new trophies by contributing more!**
+**🎮 Level up by earning more trophies!**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+
+</div>
+
+</details>
+
+<details open>
+<summary><b>📡 GAME 13: Language Radar - Tech Detection!</b></summary>
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanpandit&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=10&border_radius=15" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ayanpandit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&custom_title=This%20Week&layout=compact&border_radius=15" width="49%" />
+
+**🎯 Scanning all programming languages used!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
+
+</details>
+
+<details open>
+<summary><b>🌟 GAME 14: Commit Calendar - Time Traveler!</b></summary>
+<br>
+
+<div align="center">
+
+![GitHub Contribution Calendar](https://ghchart.rshah.org/00d9ff/ayanpandit)
+
+**⏰ Travel through time via my commit history!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+
+</div>
+
+</details>
+
+<details open>
+<summary><b>🎪 GAME 15: Profile Views Counter - Visitor Tracker!</b></summary>
+<br>
+
+<div align="center">
+
+![](https://count.getloli.com/get/@ayanpandit?theme=gelbooru)
+
+<img src="https://komarev.com/ghpvc/?username=ayanpandit&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
+
+**👀 Live visitor counter tracking everyone who visits!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
@@ -366,7 +474,11 @@ buildAmazingThings();
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Thanks%20For%20Visiting!&fontSize=42&fontAlignY=70&desc=Let's%20Create%20Something%20Amazing%20Together&descAlignY=88&animation=twinkling&fontColor=fff" width="100%"/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Red%20Heart.png" width="25"/> Made with passion & caffeine
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
