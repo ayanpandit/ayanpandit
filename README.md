@@ -146,16 +146,12 @@ const ayan = {
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35"/> 🎮 Interactive Gaming Zone 🎮
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-
-### 🕹️ Multiple Games & Visualizations Available! 🕹️
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35"/> 
 
 </div>
 
 <details open>
-<summary><b>🐍 Game 1: Contribution Snake - Watch It Eat My Code!</b></summary>
+<summary><b>🐍Watch It Eat My Code!</b></summary>
 <br>
 
 <div align="center">
