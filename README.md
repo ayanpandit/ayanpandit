@@ -326,7 +326,6 @@ const ayan = {
 <div align="center">
 
 ```javascript
-// Live coding simulation...
 console.log("Hello World! 👋");
 
 function buildAmazingThings() {
