@@ -179,24 +179,6 @@ const ayan = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 
-</div>
-
-</details>
-
-<div align="center">
-
-**🌈 Rainbow waves showing my coding rhythm!**
-
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
-
-</div>
-
-
-
-</div>
-
-</details>
-
 <details open>
 <summary><b>🔥Temperature Check!</b></summary>
 <br>
