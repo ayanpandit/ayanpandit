@@ -21,15 +21,12 @@
 ```javascript
 const ayan = {
     pronouns: "He" | "Him",
-    location: "India 🇮🇳",
     role: "IT Student & Full-Stack Developer",
-    
     languages: {
         expert: ["JavaScript", "Python", "Java"],
         intermediate: ["PHP", "Kotlin", "C"],
         learning: ["TypeScript", "Go"]
     },
-    
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
@@ -41,8 +38,8 @@ const ayan = {
             python: ["Django", "Flask"],
             php: ["WordPress"]
         },
-        databases: ["MongoDB", "Firebase", "PostgreSQL"],
-        cloud: ["AWS", "Google Cloud", "Netlify"],
+        databases: ["MongoDB", "Supabase", "PostgreSQL"],
+        cloud: ["AWS", "Render", "Netlify" ,"Railways"],
         tools: ["Git", "Docker", "VS Code"]
     },
     
@@ -85,13 +82,6 @@ const ayan = {
 <br>
 
 <div align="center">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35"/> GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayanpandit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&border_radius=15&ring_color=00d9ff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanpandit&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6e96&currStreakLabel=00d9ff&border_radius=15" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanpandit&custom_title=Contribution%20Timeline&hide_border=true&bg_color=0d1117&color=00d9ff&line=ff6e96&point=ffffff&area=true&area_color=00d9ff&radius=16" width="98%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
