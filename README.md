@@ -139,16 +139,17 @@ const ayan = {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="35"/> 🎮
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+<div style="display:flex;align-items:center;justify-content:center;gap:24px;flex-wrap:wrap;">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="game-gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="contrib-gif" />
 </div>
+
 <summary><b>🐍 Classic Arcade!</b></summary>
 <br>
 
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/ayanpandit/ayanpandit/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 **🎯 Watch the snake devour my GitHub contributions!**
 
@@ -161,22 +162,11 @@ const ayan = {
 <div align="center">
 
 ![](https://raw.githubusercontent.com/ayanpandit/ayanpandit/main/profile-3d-contrib/profile-gitblock.svg)
-
-**🌆 Each tower represents my coding activity!**
-
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
-
-
 <summary><b>🔥Temperature Check!</b></summary>
 <br>
 
 <div align="center">
 
-[![Ayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayanpandit&bg_color=0d1117&color=00d9ff&line=ff6e96&point=ffffff&area=true&hide_border=true&custom_title=Annual%20Contribution%20Graph&radius=16)](https://github.com/ayanpandit)
-
-**🌡️ Hottest days = Most productive coding sessions!**
-
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 
 </div>
 
@@ -211,8 +201,6 @@ const ayan = {
 <br>
 
 <div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ayanpandit/ayanpandit&type=Date&theme=dark)](https://star-history.com/#ayanpandit/ayanpandit&Date)
 
 **📈 Watch my star count grow over time!**
 
@@ -250,10 +238,6 @@ const ayan = {
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
 
-**🧠 New wisdom appears every visit!**
-
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
-
 </div>
 
 
@@ -276,50 +260,6 @@ const ayan = {
 <br>
 
 <div align="center">
-
-**⌨️ Watch the code come alive!**
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-
-</div>
-
-<summary><b>🏆Unlock Achievements!</b></summary>
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayanpandit&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15" width="100%" />
-
-**🎮 Level up by earning more trophies!**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
-
-</div>
-
-
-<br>
-
-<div align="center">
-
-**🎯 Scanning all programming languages used!**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
-<summary><b>🌟Time Traveler!</b></summary>
-<br>
-
-<div align="center">
-
-![GitHub Contribution Calendar](https://ghchart.rshah.org/00d9ff/ayanpandit)
-
-**⏰ Travel through time via my commit history!**
-
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
-
-</div>
-
 
 <summary><b>🎪Visitor Tracker!</b></summary>
 <br>
