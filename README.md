@@ -83,6 +83,9 @@ const ayan = {
 
 <div align="center">
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35"/> GitHub Statistics
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanpandit&custom_title=Contribution%20Timeline&hide_border=true&bg_color=0d1117&color=00d9ff&line=ff6e96&point=ffffff&area=true&area_color=00d9ff&radius=16" width="98%"/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
