@@ -86,6 +86,9 @@ const ayan = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35"/> GitHub Statistics
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanpandit&custom_title=Contribution%20Timeline&hide_border=true&bg_color=0d1117&color=00d9ff&line=ff6e96&point=ffffff&area=true&area_color=00d9ff&radius=16" width="98%"/>
 
+<!-- Streak Stats - Added current and highest streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanpandit&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="98%"/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
@@ -162,16 +165,8 @@ const ayan = {
 <div align="center">
 
 ![](https://raw.githubusercontent.com/ayanpandit/ayanpandit/main/profile-3d-contrib/profile-gitblock.svg)
-<summary><b>🔥Temperature Check!</b></summary>
-<br>
-
-<div align="center">
-
 
 </div>
-
-
-
 
 <summary><b>📊Real-Time Stats!</b></summary>
 <br>
@@ -221,6 +216,8 @@ const ayan = {
 | ⭐ Total Stars | ![](https://img.shields.io/github/stars/ayanpandit?style=flat-square&color=ff6e96&label=Stars) | ⭐ Growing |
 | 👥 Followers | ![](https://img.shields.io/github/followers/ayanpandit?style=flat-square&color=00d9ff&label=Followers) | 📈 Rising |
 | 🔧 Public Repos | ![](https://img.shields.io/badge/dynamic/json?color=ff6e96&style=flat-square&label=Repos&query=%24.public_repos&url=https://api.github.com/users/ayanpandit) | 🚀 Active |
+| 🔥 Current Streak | ![](https://img.shields.io/badge/dynamic/json?color=ff6e96&style=flat-square&label=Current%20Streak&query=%24.current_streak&url=https://github-readme-streak-stats.herokuapp.com/?user=ayanpandit) | ⚡ Active |
+| 🏆 Highest Streak | ![](https://img.shields.io/badge/dynamic/json?color=00d9ff&style=flat-square&label=Highest%20Streak&query=%24.max_streak&url=https://github-readme-streak-stats.herokuapp.com/?user=ayanpandit) | 🏅 Record |
 
 **🎯 Mission control for all my GitHub stats!**
 
