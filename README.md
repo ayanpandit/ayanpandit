@@ -20,7 +20,7 @@
 
 ```javascript
 const ayan = {
-    pronouns: "He" | "Him" | "she"|,
+    pronouns: "He" | "Him" |,
     role: "IT Student & Full-Stack Developer",
     languages: {
         expert: ["JavaScript", "Python", "Java"],
